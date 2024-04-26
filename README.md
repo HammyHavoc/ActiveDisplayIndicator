@@ -9,12 +9,12 @@ I wrote this small utility for one of my oldest and closest friends who is legal
 
 You will need the following installed to use it in its current state:
 
-- Python (grab it from the Microsoft Store)
-- win10toast (`pip install win10toast`); I'll likely be removing this, it's purely for testing purposes.
-- pywin32 (`pip install pywin32`)
-- pystray (`pip install pystray`)
+- Python (grab it from the [https://www.microsoft.com/store/productId/9NCVDN91XZQP?ocid=pdpshare](Microsoft Store)
+- win10toast (run `pip install win10toast` in the terminal); I'll likely be removing this, it's purely for testing purposes.
+- pywin32 (run `pip install pywin32` in the terminal)
+- pystray (run `pip install pystray` in the terminal)
 
-Open a terminal in the same directory as it and run `python active_monitor_indicator.py` to start the utility.
+To run the utility once you have installed the dependencies, open a terminal in the same directory as the python active_monitor_indicator.py script, then run `python active_monitor_indicator.py`.
 
 I'm hoping to wrap it up into a neat installable utility that people can install and forget about it. If you find some value in it, great!
 
