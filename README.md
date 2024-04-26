@@ -16,6 +16,8 @@ You will need the following installed to use it in its current state:
 
 I'm hoping to wrap it up into a neat installable utility that people can install and forget about it. If you find some value in it, great!
 
-Numerical Icons: <a href="https://www.flaticon.com/free-icons/number-one" title="number one icons">Number one icons created by Hight Quality Icons - Flaticon</a>
+Numerical icons I modified the colours of for a quick test: <a href="https://www.flaticon.com/free-icons/number-one" title="number one icons">Number one icons created by Hight Quality Icons - Flaticon</a>
+
+If anyone has any difficulties in setting it up, let me know, happy to help!
 
 Peace and love, earthlings!
