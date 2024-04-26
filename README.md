@@ -14,6 +14,8 @@ You will need the following installed to use it in its current state:
 - pywin32 (`pip install pywin32`)
 - pystray (`pip install pystray`)
 
+Open a terminal in the same directory as it and run `python active_monitor_indicator.py` to start the utility.
+
 I'm hoping to wrap it up into a neat installable utility that people can install and forget about it. If you find some value in it, great!
 
 Numerical icons I modified the colours of for a quick test: <a href="https://www.flaticon.com/free-icons/number-one" title="number one icons">Number one icons created by Hight Quality Icons - Flaticon</a>
