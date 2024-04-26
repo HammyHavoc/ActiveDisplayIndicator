@@ -9,7 +9,7 @@ I wrote this small utility for one of my oldest and closest friends who is legal
 
 You will need the following installed to use it in its current state:
 
-- Python (grab it from the [https://www.microsoft.com/store/productId/9NCVDN91XZQP?ocid=pdpshare](Microsoft Store)
+- Python (grab it from the [Microsoft Store](https://www.microsoft.com/store/productId/9NCVDN91XZQP?ocid=pdpshare)
 - win10toast (run `pip install win10toast` in the terminal); I'll likely be removing this, it's purely for testing purposes.
 - pywin32 (run `pip install pywin32` in the terminal)
 - pystray (run `pip install pystray` in the terminal)
