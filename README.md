@@ -1,5 +1,5 @@
 # ActiveDisplayIndicator
-## or "Hammy & Heskimo's H-Active Hesktop Indicator"
+## or "Hammy & Heskimo's H-Active Hesktop H-Indicator"
 
 Scrotings!
 
